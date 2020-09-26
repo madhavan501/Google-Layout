@@ -29,7 +29,11 @@
  </tr>
    <tr>
     <td colspan="2" width="450" height="100"></td>
-   <td width="450" height="100">2</td>
+   <td width="450" height="100">
+    <a href="https://www.google.com">privacy</a>
+     <a href="https://www.google.com">terms</a>
+    <a href="https://www.google.com">settings</a>
+    </td>
  </tr>
 </table>
 </body>
