@@ -7,9 +7,9 @@
    <tr>
       <th colspan="2" width="450" height="100"></th>
       <th width="100" height="100">
-   <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">
+   <a href="https://www.google.com/gmail/">
   Gmail
-    </a>
+    </a> 
        <a href="https://happywall-img-gallery.imgix.net/1524/lion_ii_display.jpg">image</a>
    </th>
    </tr>
