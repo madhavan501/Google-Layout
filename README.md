@@ -6,9 +6,9 @@
     <th>Savings</th>
   </tr>
   <tr>
-    <td width="500" height="500">Peter</td>
-    <td>Griffin</td>
-    <td>$100</td>
+    <td width="200" height="200">Peter</td>
+    <td width="200" height="200">Griffin</td>
+    <td width="200" height="200">$100</td>
   </tr>
   <tr>
     <td>Lois</td>
