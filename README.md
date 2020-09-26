@@ -5,7 +5,7 @@
   <body>
   <table border="10">
         <tr>
-            <th>From the unkmown style of the data is consider</th>
+            <th></th>
             <th>Subject</th>
             <th>Date</th>
         </tr>
@@ -14,9 +14,9 @@
     <col style="background-color:yellow">
   </colgroup>
   <tr>
-    <th>ISBN</th>
-    <th>Title</th>
-    <th>Price</th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>3476896</td>
