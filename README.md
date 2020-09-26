@@ -9,6 +9,7 @@
       <th width="50" height="20">
    <a href="https://www.google.com">Gmail </a> 
   <a href="https://happywall-img-gallery.imgix.net/1524/lion_ii_display.jpg">image</a>
+       <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">My_mail</a>
    </th>
    </tr>
     <tr>
