@@ -3,7 +3,7 @@
     <h1 style="background:blue">Google Layout</h1>
   </head>
   <body>
-  <table border="100">
+  <table border="1">
         <tr>
             <th></th>
             <th>Subject</th>
