@@ -6,7 +6,7 @@
     <th>Savings</th>
   </tr>
   <tr>
-    <td>Peter</td>
+    <td width="500" height="500">Peter</td>
     <td>Griffin</td>
     <td>$100</td>
   </tr>
