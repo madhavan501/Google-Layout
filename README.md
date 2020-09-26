@@ -1,6 +1,4 @@
 <html>
-<head>
-<style>
 <table>
   <tr>
     <th>Firstname</th>
