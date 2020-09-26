@@ -6,7 +6,10 @@
    <table border="1"> 
    <tr>
       <th colspan="2" width="450" height="100"></th>
-      <th width="450" height="100">4</th>
+      <th width="450" height="100">
+    <a href="http://example.com">
+      Hello World
+    </a></th>
    </tr>
     <tr>
       <td rowspan="4" width="450" height="100"></td>
