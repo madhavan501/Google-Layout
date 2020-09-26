@@ -11,14 +11,14 @@
     <td width="200" height="200">$100</td>
   </tr>
   <tr>
-    <td>Lois</td>
-    <td>Griffin</td>
-    <td>$150</td>
+    <td width="200" height="200">Lois</td>
+    <td width="200" height="200">Griffin</td>
+    <td width="200" height="200">$150</td>
   </tr>
   <tr>
-    <td>Joe</td>
-    <td>Swanson</td>
-    <td>$300</td>
+    <td width="200" height="200">Joe</td>
+    <td width="200" height="200">Swanson</td>
+    <td width="200" height="200">$300</td>
   </tr>
   <tr>
     <td>Cleveland</td>
