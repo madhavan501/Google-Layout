@@ -3,7 +3,12 @@
     <h1 style="background:blue">Google Layout</h1>
   </head>
   <body>
-<table>
+  <table border="1">
+        <tr>
+            <th>From</th>
+            <th>Subject</th>
+            <th>Date</th>
+        </tr>
   <colgroup>
     <col span="2" style="background-color:red">
     <col style="background-color:yellow">
@@ -18,6 +23,6 @@
     <td>My first HTML</td>
     <td>$53</td>
   </tr>
-</table>
+  </table>
   </body>
   </html>
