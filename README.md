@@ -17,7 +17,7 @@
     <td>$80</td>
   </tr>
   <tr>
-    <td colspan="2">Sum: $180</td>
+   <td colspan="2">Sum: $180</td>
   </tr>
   <colgroup>
     <col span="2" style="background-color:red">
