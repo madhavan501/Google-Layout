@@ -1,5 +1,8 @@
 <html>
 <table>
+    <col width="500">
+    <col width="500">
+    <col width="500">
 <tr>
     <td width="200" height="200">Peter</td>
     <td width="200" height="200">Griffin</td>
