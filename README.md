@@ -5,7 +5,7 @@
   <body>
   <table border="10">
         <tr>
-            <th>From</th>
+            <th>From the unkmown style of the data is consider</th>
             <th>Subject</th>
             <th>Date</th>
         </tr>
