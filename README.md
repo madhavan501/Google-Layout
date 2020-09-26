@@ -1,25 +1,6 @@
 <html>
 <head>
 <style>
-table, td, th {
-  border: 1px solid black;
-}
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th {
-  height: 50px;
-}
-</style>
-</head>
-<body>
-
-<h2>The width and height Properties</h2>
-<p>Set the width of the table, and the height of the table header row:</p>
-
 <table>
   <tr>
     <th>Firstname</th>
