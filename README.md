@@ -1,28 +1,53 @@
 <html>
-  <head>
-    <h1 style="background:blue">Google Layout</h1>
-  </head>
-  <body>
-  <table border="1">
-        <tr>
-            <th>                                                                                                                  </th>
-            <th>Subject</th>
-            <th>Date</th>
-        </tr>
-  <colgroup>
-    <col span="2" style="background-color:red">
-    <col style="background-color:yellow">
-  </colgroup>
+<head>
+<style>
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+</style>
+</head>
+<body>
+
+<h2>The width and height Properties</h2>
+<p>Set the width of the table, and the height of the table header row:</p>
+
+<table>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Savings</th>
   </tr>
   <tr>
-    <td>3476896</td>
-    <td>My first HTML</td>
-    <td>$53</td>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
   </tr>
-  </table>
-  </body>
-  </html>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+  <tr>
+    <td>Cleveland</td>
+    <td>Brown</td>
+    <td>$250</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
