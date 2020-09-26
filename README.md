@@ -3,7 +3,7 @@
   <h1>Google layout</h1> 
 </head> 
  <body> 
-   <table background="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg"> 
+   <table>
    <tr>
       <th colspan="2" width="450" height="100"></th>
       <th width="50" height="20">
