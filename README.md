@@ -6,10 +6,12 @@
    <table border="1"> 
    <tr>
       <th colspan="2" width="450" height="100"></th>
-      <th width="450" height="100">
+      <th width="100" height="100">
    <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">
   Gmail
-    </a></th>
+    </a>
+       <a href="large_image"><img src="https://happywall-img-gallery.imgix.net/1524/lion_ii_display.jpg"></a>
+   </th>
    </tr>
     <tr>
       <td rowspan="4" width="450" height="100"></td>
