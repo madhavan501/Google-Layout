@@ -10,7 +10,7 @@
    <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">
   Gmail
     </a>
-       <a href="large_image"><img src="https://happywall-img-gallery.imgix.net/1524/lion_ii_display.jpg">image</a>
+       <a href="https://happywall-img-gallery.imgix.net/1524/lion_ii_display.jpg">image</a>
    </th>
    </tr>
     <tr>
