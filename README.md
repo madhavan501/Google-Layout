@@ -5,7 +5,7 @@
   <body>
   <table border="1">
         <tr>
-            <th></th>
+            <th>                                                                                                                  </th>
             <th>Subject</th>
             <th>Date</th>
         </tr>
