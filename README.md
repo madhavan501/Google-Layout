@@ -16,7 +16,7 @@
       <td rowspan="4" width="450" height="100"></td>
     </tr>
    <tr>
-      <td width="300" height="50"><img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="google"</td>
+      <td width="300" height="50"><img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="google"></td>
    </tr>
    <tr> 
     <td height="100"><input type="text" size="30" ></td>
