@@ -1,11 +1,6 @@
 <html>
 <table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
+<tr>
     <td width="200" height="200">Peter</td>
     <td width="200" height="200">Griffin</td>
     <td width="200" height="200">$100</td>
