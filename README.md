@@ -2,8 +2,8 @@
  <head> 
   <h1>Google layout</h1> 
 </head> 
- <bodystyle="widsth:100%;"> 
-   <table style="widsth:100%;">
+ <bodystyle="width:100%;"> 
+   <table style="width:100%;">
    <tr>
       <th colspan="2" width="450" height="100"></th>
       <th width="50" height="20">
