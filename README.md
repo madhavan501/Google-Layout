@@ -8,7 +8,7 @@
       <th colspan="2" width="450" height="100"></th>
       <th width="50" height="20">
    <a href="https://www.google.com">Gmail </a>&nbsp
-  <a href="https://happywall-img-gallery.imgix.net/1524/lion_ii_display.jpg">image</a>
+  <a href="https://happywall-img-gallery.imgix.net/1524/lion_ii_display.jpg">image</a>&nbsp
        <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">My_mail</a>
    </th>
    </tr>
@@ -29,8 +29,8 @@
    <tr>
     <td colspan="2" width="450" height="100"></td>
    <td width="450" height="100">
-    <a href="https://www.google.com">privacy</a>
-     <a href="https://www.google.com">terms</a>
+    <a href="https://www.google.com">privacy</a>&nbsp
+     <a href="https://www.google.com">terms</a>&nbsp
     <a href="https://www.google.com">settings</a>
     </td>
  </tr>
