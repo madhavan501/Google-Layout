@@ -5,7 +5,7 @@
  <body> 
    <table style="width:100%;">
    <tr>
-      <th colspan="2" width="450" height="100"></th>
+      <th width="450" height="100"></th>
       <th width="50" height="20">
    <a href="https://www.google.com">Gmail </a>
   <a href="https://happywall-img-gallery.imgix.net/1524/lion_ii_display.jpg">Image </a>
